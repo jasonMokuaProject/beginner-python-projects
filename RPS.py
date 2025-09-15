@@ -1,4 +1,6 @@
 # This is a basic game of rock, paper and scissors created with python
+# RPS stands for Rock Paper Scissors
+
 import random
 
 play_or_not = True
