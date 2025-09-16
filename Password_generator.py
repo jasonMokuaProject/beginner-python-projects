@@ -1,4 +1,4 @@
-# Password generator
+# Password generator python script 
 import random
 import string
 
