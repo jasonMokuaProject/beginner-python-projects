@@ -6,8 +6,8 @@
  Repository structure
 
  beginner-python-projects/
-│── README.md
-│── calculator.py
+│── README.md  \n
+│── calculator.py \n
 │── todo_list.py
 │── web_scraper.py
 │── requirements.txt
