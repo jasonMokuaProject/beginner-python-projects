@@ -26,5 +26,6 @@ def Generate_password(minimal_limit):
 
                 x +=1
                 arry_pass.append(chosenChar)
+# Invoke the function to generate password
 Generate_password(23)
 print("".join(arry_pass))
